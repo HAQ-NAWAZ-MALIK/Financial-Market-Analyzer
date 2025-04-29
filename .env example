@@ -1,0 +1,12 @@
+# API Keys - Replace with your actual keys
+OPENAI_API_KEY=sk-your-actual-openai-key-here
+ALPHA_VANTAGE_API_KEY=your-alpha-vantage-key-here
+NEWS_API_KEY=your-news-api-key-here
+
+# Model Configuration
+DEFAULT_MODEL=gpt-4.1-mini
+
+# Agent Configuration
+MAX_STEPS=25
+VERBOSITY_LEVEL=2
+LOG_LEVEL=INFO
