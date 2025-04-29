@@ -5,9 +5,10 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A sophisticated multi-agent system for financial market analysis using AI. This project leverages language models and specialized tools to collect market data, analyze financial news, perform technical analysis, and generate investment insights with informative visualizations.
+![image](https://github.com/user-attachments/assets/1e204db2-e976-46fd-bcce-6c6316edf398)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Financial+Market+Analyzer" alt="Financial Market Analyzer illustration" width="600"/>
+
 </p>
 
 ## 🌟 Features
