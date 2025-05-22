@@ -44,7 +44,7 @@ A sophisticated multi-agent system for financial market analysis using AI. This 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-market-analyzer.git
+   git clone https://github.com/HAQ-NAWAZ-MALIK/financial-market-analyzer.git
    cd financial-market-analyzer
    ```
 
